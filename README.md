@@ -8,10 +8,12 @@
   - [Bike Sales Dashboard](https://github.com/oanhnguyenolivia/BikeSalesDashboard)
   - [Fishing Data Analysis](https://github.com/oanhnguyenolivia/FishingDataAnalysis)
 - <b>Python (NumPy, Pandas, MatPlotLib)</b>
+  - [Predicting the Outcomes of Tennis Matches](https://github.com/oanhnguyenolivia/TennisOutcomePrediction)
   - [DVD Rental Database Analysis](https://github.com/oanhnguyenolivia/DvdRentalDatabaseAnalysis)
 - <b>Tableau</b>
   - [Airbnb Price Analysis Dashboard](https://github.com/oanhnguyenolivia/AirbnbPriceAnalysis)
 - <b>Microsoft Power BI</b>
+  - [Wattle Range Council Report](https://sacommunity.org/wattlerange)
   - [Bank Location Analysis Dashboard](https://github.com/oanhnguyenolivia/BankLocationAnalysis)
 - <b>R</b>
   - [Spotify Song Genre Prediction](https://github.com/oanhnguyenolivia/SpotifySongGenrePrediction)
@@ -28,4 +30,4 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/olivia-nguyen-213881137/
