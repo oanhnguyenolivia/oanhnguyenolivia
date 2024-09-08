@@ -1,14 +1,14 @@
 <h1>Hi, I'm Olivia!
 
-<h2>Data Analysis Projects:</h2>
+<h2>Data Science Projects:</h2>
 
 - <b>SQL (MySQL)</b>
   - [Company Database Design](https://github.com/oanhnguyenolivia/CompanyDatabaseDesign) 
-- <b>Excel (VLookup, Conditional Formatting, Pivot Tables)</b>
+- <b>Excel (XLookup, Conditional Formatting, Pivot Tables)</b>
   - [Bike Sales Dashboard](https://github.com/oanhnguyenolivia/BikeSalesDashboard)
   - [Fishing Data Analysis](https://github.com/oanhnguyenolivia/FishingDataAnalysis)
 - <b>Python (NumPy, Pandas, MatPlotLib)</b>
-  - [Predicting the Outcomes of Tennis Matches](https://github.com/oanhnguyenolivia/TennisOutcomePrediction)
+  - [Tennis Match Outcome Prediction](https://github.com/oanhnguyenolivia/TennisOutcomePrediction)
   - [DVD Rental Database Analysis](https://github.com/oanhnguyenolivia/DvdRentalDatabaseAnalysis)
 - <b>Tableau</b>
   - [Airbnb Price Analysis Dashboard](https://github.com/oanhnguyenolivia/AirbnbPriceAnalysis)
